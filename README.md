@@ -7,3 +7,7 @@ Udacity Front-End Web Development Nanodegree Exercise - Retain App
 ## Website
 
 [https://ninakwelch.github.io/ninas-retain-app](https://ninakwelch.github.io/ninas-retain-app)
+
+## Clearing notes
+
+to clear previous notes, go to Console, write `localStorage.clear()` and refresh the page. This will remove all the previous notes.
